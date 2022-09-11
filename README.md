@@ -19,3 +19,9 @@ I am currently exploring Winter 2023 and Fall 2023 internship opportunities. Ple
 - 🧑🏻‍💻 &nbsp; I'm currently interning as a Junior Software Developer at [JANA](https://www.janacorporation.com)
 - ⛩️ &nbsp; Did you know I'm a huge anime fan - ask me for an anime recommendation or why I like anime! 
 - 🏸 &nbsp; Let me know if you ever want to play badminton or table tennis! I'm always up for a game!
+
+### 📝 To-do List: 
+- 🔨 &nbsp; Finish the house-party project
+- 🛠️ &nbsp; Create a type-writing gif for GitHub readme, and a badge to track visitors to my GitHub account 
+- ⚒️ &nbsp; Build a new portfolio website to replace my current, very old one
+- 🧰 &nbsp; Find all of my previous projects and upload them to GitHub
