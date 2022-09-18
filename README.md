@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Great to see you, I'm Vivan!  &nbsp; <img src="./assets/developer.gif" width="50">
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gvivan&text=Visits&color=6DC3D3)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=gvivan.gvivan&text=Visits&color=6DC3D3)
 
 I am currently exploring Winter 2023 and Fall 2023 internship opportunities. Please feel free to [reach out](https://www.linkedin.com/in/gvivan/)!
 - 💻 &nbsp; I'm currently pursuing a double major in Computer Science and Finance at the University of Waterloo
