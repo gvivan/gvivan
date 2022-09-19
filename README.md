@@ -24,6 +24,6 @@ I am currently exploring Winter 2023 and Fall 2023 internship opportunities. Ple
 
 ### 📝 To-do List: 
 - 🔨 &nbsp; Finish the house-party project
-- 🛠️ &nbsp; Create a type-writing gif for GitHub readme, and a badge to track visitors to my GitHub account 
+- 🛠️ &nbsp; Create a type-writing gif for GitHub readme 
 - ⚒️ &nbsp; Build a new portfolio website to replace my current, very old one
 - 🧰 &nbsp; Find all of my previous projects and upload them to GitHub
