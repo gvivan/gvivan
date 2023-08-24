@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Great to see you, I'm Vivan!  &nbsp; <img src="./assets/developer.gif" width="50">
 
-I am currently exploring Fall 2023/Winter 2024/Summer 2024 internship opportunities. Please feel free to [reach out](https://www.linkedin.com/in/gvivan/)!
+I am currently exploring Winter 2024/Summer 2024 internship opportunities. Please feel free to [reach out](https://www.linkedin.com/in/gvivan/)!
 - 💻 &nbsp; I'm currently pursuing a double major in Computer Science and Finance at the University of Waterloo
 - 🧑🏻‍💻 &nbsp; I'm currently interning as a Software Engineer at [Cisco](https://www.cisco.com)
 - ⛩️ &nbsp; Did you know I'm a huge anime fan - ask me for an anime recommendation or why I like anime! 
