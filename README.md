@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 ### Great to see you, I'm Vivan!  &nbsp; <img src="./assets/developer.gif" width="50">
 
-I am currently exploring Winter 2024/Summer 2024 internship opportunities. Please feel free to [reach out](https://www.linkedin.com/in/gvivan/)!
+I am currently exploring Summer/Fall 2024 internship opportunities. Please feel free to [reach out](https://www.linkedin.com/in/gvivan/)!
 - 💻 &nbsp; I'm currently pursuing a double major in Computer Science and Finance at the University of Waterloo
-- 🧑🏻‍💻 &nbsp; I'm currently interning as a Software Engineer at [Cisco](https://www.cisco.com)
+- 🧑🏻‍💻 &nbsp; I'm an incoming software engineering intern at [Microsoft](https://www.microsoft.com)
 - ⛩️ &nbsp; Did you know I'm a huge anime fan - ask me for an anime recommendation or why I like anime! 
 - 🏸 &nbsp; Let me know if you ever want to play badminton or table tennis! I'm always up for a game!
 
 ### 📝 To-do List: 
 - 🔨 &nbsp; Finish the house-party project
-- 🛠️ &nbsp; Create a type-writing gif for GitHub readme 
+- 🛠️ &nbsp; Work on an innovative project that I have in mind
 - ⚒️ &nbsp; Build a new portfolio website to replace my current, old one
 - 🧰 &nbsp; Find all of my previous projects and upload them to GitHub
